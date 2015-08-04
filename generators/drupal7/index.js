@@ -25,7 +25,7 @@ module.exports = yeoman.generators.Base.extend({
         type: 'input',
         name: 'diskSize',
         message: 'How much disk space in MB should your project have?',
-        default: '2048'
+        default: '5120'
       }
     ];
 
